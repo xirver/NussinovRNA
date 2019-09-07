@@ -1,0 +1,16 @@
+# Compilare questo file prima di inviare il progetto
+# Componenti del gruppo in ordine alfabetico per cognome:
+
+# Componente 1
+NOME:  Federico
+COGNOME: Casenove
+MATRICOLA: 099210
+EMAIL UNICAM: federico.casenove@studenti.unicam.it
+ANNO DI ISCRIZIONE AL PRIMO ANNO: 2016/2017
+
+# Componente 2 (opzionale)
+NOME: 
+COGNOME: 
+MATRICOLA: 
+EMAIL UNICAM: 
+ANNO DI ISCRIZIONE AL PRIMO ANNO:
